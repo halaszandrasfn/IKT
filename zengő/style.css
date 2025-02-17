@@ -1,0 +1,63 @@
+body{
+    background-color: #0a714e;
+}
+
+#content{
+	width: 888px;
+    background-color: #fdffea;
+    margin: auto;
+    border-radius: 20px;
+    padding: 20px;
+}
+#imageright{
+	margin-left: 20px;
+    float: right;
+    border: 10px #0a714e;
+    border-radius: 20px;
+    background-color: #e1d0b7;
+}
+
+#imageright img{
+    width: 200px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+
+#imageleft{
+	margin-right: 40px;
+    float: left;
+    border: 10px #0a714e;
+    margin-bottom: 88px;
+    background-color: #e1d0b7;
+}
+
+#imageleft img{
+    width: 300px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+
+
+.kepszoveg{
+	font-weight: bold;
+    font-style: italic;
+    text-align: center;
+    margin: 3px;
+}
+
+h1, h2{
+    text-transform: uppercase;
+    color: forestgreen;
+}
+
+p, ul, ol{
+    text-align: justify;
+}
+
+a{
+    color: blue;
+}
+
+a:hover{
+    color: red;
+}
